@@ -35,6 +35,16 @@ __*m(cosθ; sinθ; θ)*__
 |v(cosθ; θ; sinθ)      |   neutrino||
 |β(θ; sinθ; cosθ)    |           |     Beta rays+|
 |β(θ; cosθ; sinθ)      |         |     Beta rays-|
-|γ(θ; θ; 2θ)          |           |    Gamma rays|  
+|γ(θ; θ; 2θ)          |           |    Gamma rays|    
 
+   
+
+### g(sinθ, cosθ, nθ) --- Gravitational Force
+![Gravitational Force](g1.png)  ![Gravitational Force](g2.png)   
+### s(θ; θ; nπ)  --- Strong Nuclear Force
+![Strong Nuclear Force](s1.png)  ![Strong Nuclear Force](s2.png)   
+### w(θ; θ; θ/n)  ---  Weak Nuclear Force 
+![Weak Nuclear Force ](w1.png)   ![Weak Nuclear Force ](w2.png)   
+###  e(θ; θ/n; θ) ---  Electromagnetic Force
+![Electromagnetic Force](e1.png)  ![Electromagnetic Force](e2.png)  
 
