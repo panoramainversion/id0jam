@@ -35,8 +35,7 @@ __*m(cosθ; sinθ; θ)*__
 |v(cosθ; θ; sinθ)      |   neutrino||
 |β(θ; sinθ; cosθ)    |           |     Beta rays+|
 |β(θ; cosθ; sinθ)      |         |     Beta rays-|
-|γ(θ; θ; 2θ)          |           |    Gamma rays|    
-
+|γ(θ; θ; 2θ)          |           |    Gamma rays|      
    
 
 ### g(sinθ, cosθ, nθ) --- Gravitational Force
