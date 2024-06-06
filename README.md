@@ -35,8 +35,8 @@ __*m(cosθ; sinθ; θ)*__
 |v(cosθ; θ; sinθ)      |   neutrino||
 |β(θ; sinθ; cosθ)    |           |     Beta rays+|
 |β(θ; cosθ; sinθ)      |         |     Beta rays-|
-|γ(θ; θ; 2θ)          |           |    Gamma rays|
-|0<θ<nπ |||
+|γ(θ; θ; 2θ)          |           |    Gamma rays|  
+
 
 Boson https://www.geogebra.org/3d/gcn57kyu  
 fermion https://www.geogebra.org/3d/zzkwnbrc
