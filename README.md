@@ -3,7 +3,7 @@
 *The Theory of Everything*   
 
 A spatial geometric curve   
-Powered by 3D Calculator - GeoGebra
+Powered by [3D Calculator - GeoGebra](https://www.geogebra.org/3d "3D Calculator")
    
    
 **i=t(θ; jθ; kθ)**   
@@ -15,7 +15,7 @@ __*a(sinθ; cosθ; θ)*__
 __*m(cosθ; sinθ; θ)*__   
 
 
-### Boson
+### [Boson](https://www.geogebra.org/3d/gcn57kyu)  
 | code   | id |  
 | :-- | :-- |
 | g(sinθ, cosθ, nθ)  |       Gravitational Force | 
@@ -25,7 +25,7 @@ __*m(cosθ; sinθ; θ)*__
 |  e(θ; θ/n; θ)     |         Electromagnetic Force | 
 
 
-### Fermion
+### [Fermion](https://www.geogebra.org/3d/zzkwnbrc)
 | code   | id |  ray|
 | :-- | :-- |:-- |
 |a(1; θ; 2θ)          |    atom    |   Alpha rays|
@@ -38,5 +38,3 @@ __*m(cosθ; sinθ; θ)*__
 |γ(θ; θ; 2θ)          |           |    Gamma rays|  
 
 
-Boson https://www.geogebra.org/3d/gcn57kyu  
-Fermion https://www.geogebra.org/3d/zzkwnbrc
