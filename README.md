@@ -20,12 +20,12 @@ __*m(cosθ; sinθ; θ)*__
 | :-- | :-- |
 | g(sinθ, cosθ, nθ)  |       Gravitational Force | 
 |  s(θ; θ; nπ)   |           Strong Nuclear Force|
-|  t(θ; θ) | | 
+|  t(θ; θ) |                  Ether | 
 |  w(θ; θ; θ/n)      |        Weak Nuclear Force | 
 |  e(θ; θ/n; θ)     |         Electromagnetic Force | 
 
 
-### fermion
+### Fermion
 | code   | id |  ray|
 | :-- | :-- |:-- |
 |a(1; θ; 2θ)          |    atom    |   Alpha rays|
@@ -39,4 +39,4 @@ __*m(cosθ; sinθ; θ)*__
 
 
 Boson https://www.geogebra.org/3d/gcn57kyu  
-fermion https://www.geogebra.org/3d/zzkwnbrc
+Fermion https://www.geogebra.org/3d/zzkwnbrc
