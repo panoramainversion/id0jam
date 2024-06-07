@@ -34,6 +34,6 @@ __*m(cosθ; sinθ; θ)*__
 |n(cosθ; sinθ; θ)     |    neutron||🟡 |
 |v(cosθ; θ; sinθ)      |   neutrino||🔵|
 |β(θ; sinθ; cosθ)    |           |     Beta rays+|⚪ |
-|β(θ; cosθ; sinθ)      |         |     Beta rays-|🟠 |
+|β(θ; cosθ; sinθ)      |         |     Beta rays-|⚪ |
 |γ(θ; θ; 2θ)          |           |    Gamma rays| 🟣|     
    
