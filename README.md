@@ -31,8 +31,8 @@ __*m(cosθ; sinθ; θ)*__
 |a(1; θ; 2θ)          |    atom    |   Alpha rays| 🟠 |
 |p(sinθ; cosθ; θ)      |   proton|| 🟢 |
 |e(sinθ; θ; cosθ)      |   electron||🔴 |
-|n(cosθ; sinθ; θ)     |    neutron||🟡 |
-|v(cosθ; θ; sinθ)      |   neutrino||🔵|
+|n(cosθ; sinθ; θ)     |    neutron||🔵|
+|v(cosθ; θ; sinθ)      |   neutrino||🟡 |
 |β(θ; sinθ; cosθ)    |           |     Beta rays+|⚪ |
 |β(θ; cosθ; sinθ)      |         |     Beta rays-| ⚫ |
 |γ(θ; θ; 2θ)          |           |    Gamma rays| 🟣|     
