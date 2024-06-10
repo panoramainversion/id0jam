@@ -20,8 +20,8 @@ __*m(cosθ; sinθ; θ)*__
 | :-- | :-- |  :--:  |
 | g(sinθ, cosθ, nθ)  |       Gravitational Force | 🟢 |
 |  s(θ; θ; nπ)   |           Strong Nuclear Force| 🔴 |
-|  t(θ; θ) |                  Aether Force| 🟡 |
-|  w(θ; θ; θ/n)      |        Weak Nuclear Force | ⚪ |
+|  t(θ; θ) |                  Aether Force| 🟤 |
+|  w(θ; θ; θ/n)      |        Weak Nuclear Force | 🟡 |
 |  e(θ; θ/n; θ)     |         Electromagnetic Force | ⚫ |
 
 
